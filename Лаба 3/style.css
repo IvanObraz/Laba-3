@@ -18,7 +18,7 @@ image{display: block;max-width: 100%; height: auto;}
 .abdul:hover{fill: pink;}
 .barion{display: block;fill: red;}
 .barion:hover{fill: greenyellow;}
-.lion{display: flex;border: 2px solid black; box-shadow: 5px 5px 5px 3px grey;padding: 10px;width: 600px;margin: 0 auto;margin-bottom: 15px;}
+.lion{display: flex;border: 2px solid grey; box-shadow: 5px 5px 5px 3px grey;padding: 10px;width: 600px;margin: 0 auto;margin-bottom: 15px;}
 .pol-naref{margin-left: 10px;}
 .fsa{align-self: flex-start;}
 .background{background-image: url("images/wasd.png"); width: 100%;height: 600px;background-size: cover;position: relative;overflow: hidden;}
